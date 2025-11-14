@@ -1,9 +1,10 @@
 # AI-CC
 In this repository, you will find the notebooks for the Machine Learning & AI Course for Beginners.
+The slides of the persentations are in the [slides/](slides/) folder.
 
 The course is divided into several parts, each part containing a set of notebooks.
 
-The notebooks are organized in the following way:
+The ML notebooks are organized in the following way:
 
 - Part 1: Starter Notebooks: [hello_work_AI](01_hello_work_AI/)
 - Part 2: ML Classification tasks: [binary_classification](02_1_binary_classification/) and [multi_class_classification](02_2_multi_class_classification/)
@@ -18,12 +19,9 @@ The notebooks are written in Python and use the following libraries:
 - [Matplotlib](https://matplotlib.org/)
 - [Scikit-learn](https://scikit-learn.org/)
 
+Moving to the neural networks part, the notebooks are organized in the following way:
 
-Part 4: Neural Networks: [Neural_networks](04_Neural_networks/)
-This notebook demonstrates how to build a neural network for a regression task.
-
-The neural netwokr implementation is written in PyTorch:
-- [PyTorch](https://pytorch.org/)
+- Part 4: Neural Networks: [Neural_networks](04_Neural_networks/)
 
 ## How to run the notebooks
 
